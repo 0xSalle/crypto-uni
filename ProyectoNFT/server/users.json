@@ -1,0 +1,18 @@
+[
+  {
+    "username": "admin",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$koI0a55ABsLCNYXASau3IQ$o6bVbyjE5sGrXsRU+oh7BU22n1pzk0+wLolUieSmiuc"
+  },
+  {
+    "username": "user",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$j5c6wFArthUv2QBDCQg72g$UkPPYKsl4e1geUeWHZjury9qiwr0ohQbzEcYbdx/B4M"
+  },
+  {
+    "username": "hola",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$E7bYOjk6DIoeZKAeUg678Q$gXKi7cKkn0pgwoe4cncmSI0bYAL8PZ+p18zyeWGqjXU"
+  },
+  {
+    "username": "test",
+    "password": "$argon2id$v=19$m=65536,t=3,p=4$KhXpnRtzGEdO9LXMhTj6gg$elhYskPkT1v1LcnqxTj+OwwJmSKKQE8zKD/e/wz0qtA"
+  }
+]
